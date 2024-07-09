@@ -18,3 +18,5 @@ git commit -m "Inicialización del proyecto con README"
 
 # 6. Visualiza el historial de commits
 git log
+
+
